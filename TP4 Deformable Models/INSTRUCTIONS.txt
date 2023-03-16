@@ -1,0 +1,21 @@
+IMA204 Active Contours TP 
+
+
+[1] REQUIRED Python packages:
+numpy 
+matplotlib
+IPython
+skimage
+
+
+[2] Recommended interactive display tool to visualise an image and get pixel coordinates along with pixel intensity value: 
+Pinta (on MacOS) 
+or 
+(BETTER) the local html tool provided: iview_IMA204.html
+
+[3] You will be provided with a Jupyter Notebook to complete and submit back which accesses local images. 
+
+The submitted code needs to run smoothly. 
+
+Please include any new image used in your submitted docs.  And assume in the code that they are read in the folder "/images_misc/" like many images already provided.
+

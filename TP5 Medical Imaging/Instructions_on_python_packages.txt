@@ -1,0 +1,17 @@
+Packages you need for this Computer Lab:
+
+os
+numpy 
+matplotlib
+mpl_toolkits 
+glob
+scipy 
+skimage
+cv2 (conda install -c conda-forge opencv OR pip install opencv-python)
+
+
+Unzip the data.zip folder in your local directory from where you run the notebook.
+
+Hints to add:
+# from scipy.spatial.distance import dice
+
